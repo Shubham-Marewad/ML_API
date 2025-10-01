@@ -104,9 +104,12 @@ The server will start at `http://127.0.0.1:5000`
 3. Body → raw → JSON:
 ```json
 {
-  "feature1": 10,
-  "feature2": "category_A",
-  "feature3": 25.5
+  "age": 35,
+  "bmi": 28.5,
+  "children": 2,
+  "sex": "female",
+  "smoker": "yes",
+  "region": "southeast"
 }
 ```
 
